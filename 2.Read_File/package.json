@@ -1,0 +1,11 @@
+{
+  "name": "read_file",
+  "version": "1.0.0",
+  "description": "Read A file ",
+  "main": "index.js",
+  "scripts": {
+    "test": "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C Read.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

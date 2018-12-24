@@ -1,0 +1,11 @@
+{
+  "name": "helloworld_server",
+  "version": "1.0.0",
+  "description": "Print Hello World",
+  "main": "Hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manish Kumar",
+  "license": "ISC"
+}
